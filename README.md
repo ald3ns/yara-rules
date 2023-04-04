@@ -1,2 +1,3 @@
-# yara-rules
-YARA rules
+# YARA Rules
+
+Just a quick repo to store my yara rules.
